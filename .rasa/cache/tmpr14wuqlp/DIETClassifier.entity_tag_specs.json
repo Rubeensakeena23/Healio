@@ -1,0 +1,44 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-Mood",
+      "2": "I-Mood",
+      "3": "L-Mood",
+      "4": "U-Mood",
+      "5": "B-depressed",
+      "6": "I-depressed",
+      "7": "L-depressed",
+      "8": "U-depressed",
+      "9": "B-name",
+      "10": "I-name",
+      "11": "L-name",
+      "12": "U-name",
+      "13": "B-sadfeeling",
+      "14": "I-sadfeeling",
+      "15": "L-sadfeeling",
+      "16": "U-sadfeeling",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-Mood": 1,
+      "I-Mood": 2,
+      "L-Mood": 3,
+      "U-Mood": 4,
+      "B-depressed": 5,
+      "I-depressed": 6,
+      "L-depressed": 7,
+      "U-depressed": 8,
+      "B-name": 9,
+      "I-name": 10,
+      "L-name": 11,
+      "U-name": 12,
+      "B-sadfeeling": 13,
+      "I-sadfeeling": 14,
+      "L-sadfeeling": 15,
+      "U-sadfeeling": 16,
+      "O": 0
+    },
+    "num_tags": 17
+  }
+]

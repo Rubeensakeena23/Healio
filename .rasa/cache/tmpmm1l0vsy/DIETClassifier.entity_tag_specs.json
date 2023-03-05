@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-Mood",
+      "2": "I-Mood",
+      "3": "L-Mood",
+      "4": "U-Mood",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-Mood": 1,
+      "I-Mood": 2,
+      "L-Mood": 3,
+      "U-Mood": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]

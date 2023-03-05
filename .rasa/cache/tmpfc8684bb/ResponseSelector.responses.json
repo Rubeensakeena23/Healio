@@ -1,0 +1,79 @@
+{
+  "utter_mood/ask_quotes": [
+    {
+      "text": "Just pick a goal, a goal you truly want to achieve, and take a clear-eyed look at your weaknesses -- not so you'll feel less confident, but so you can determine exactly what you need to work on. Then get to work. Celebrate small successes. Analyze your weaknesses. Keep going. As you gain skill, you'll also gain a feeling of genuine confidence, one that can never be taken away--because you've earned it."
+    },
+    {
+      "text": "Don't wait until everything is just right. It will never be perfect. There will always be challenges, obstacles, and less than perfect conditions. So what? Get started now. With each step you take, you will grow stronger and stronger, more and more skilled, more and more self-confident, and more and more successful."
+    },
+    {
+      "text": "Trust yourself. Create the kind of self that you will be happy to live with all your life. Make the most of yourself by fanning the tiny, inner sparks of possibility into flames of achievement."
+    },
+    {
+      "text": "Confidence comes not from always being right but from not fearing to be wrong."
+    },
+    {
+      "text": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness, that most frightens us. We ask ourselves, 'Who am I to be brilliant, gorgeous, talented, fabulous?' Actually, who are you not to be?"
+    },
+    {
+      "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+    },
+    {
+      "text": "Reflect upon your present blessings, of which every man has many - not on your past misfortunes, of which all men have some."
+    }
+  ],
+  "utter_mood/ask_focus": [
+    {
+      "text": "Make use of implementation intentions (if-then responses)"
+    },
+    {
+      "text": "Remove distractions from your life and act NOW"
+    },
+    {
+      "text": "Design separate environment - one optimized for work (high-stress), the other for play (recovery)"
+    }
+  ],
+  "utter_mood/ask_habits": [
+    {
+      "text": "Two-minute rule - make new activity feel manageable by distilling them into a two minute activity."
+    },
+    {
+      "text": "Make easy behavious as easy to pick up as possible, whilst increasing friction to bad habits."
+    },
+    {
+      "text": "Create a habit tracker, cross off the actions that you manage to achieve each day."
+    }
+  ],
+  "utter_mood/joke": [
+    {
+      "text": "Did you hear about the actor who fell through the floorboards? He was just going through a stage."
+    },
+    {
+      "text": "Did you hear about the claustrophobic astronaut? He just needed a little space."
+    },
+    {
+      "text": "Can February March? No, but April May!"
+    },
+    {
+      "text": "Why are pirates called pirates? Because they arrrr!"
+    },
+    {
+      "text": "What did one ocean say to the other ocean? Nothing, they just waved."
+    },
+    {
+      "text": "How much teddy bears never want to eat anything? Because they're always stuffed."
+    },
+    {
+      "text": "A horse walks into a bar. The bartender says, “Why the long face?”"
+    },
+    {
+      "text": "Knock, knock Who's there? Nun Nun who? Nun of your business!"
+    },
+    {
+      "text": "Knock knock. Who's there? Broken pencil. Broken pencil who? Never mind, there's no point!"
+    },
+    {
+      "text": "What do you call a midget psychic who just escaped from prison? A small medium at large."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+  - action: utter_happy
+  - intent: affirm
+  - action: utter_continue_convo
+  - intent: happy_continue
+  - action: utter_happy_continue
+  - intent: gratitute
+  - action: utter_gratitute
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_sad
+  - action: utter_sad
+  - action: utter_sad
+  - intent: sad_continue
+  - action: utter_sad_continue
+  - intent: mood_sad
+  - action: utter_sad_continue
+  - intent: gratitute
+  - action: utter_gratitute
+
+- story: self harm path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self_harm
+  - action: utter_reply_selfharm
+  - intent: affirm
+  - action: utter_reply2_selfharm
+
+- story: hopelessness path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: hopelessness
+  - action: utter_dont_be_hopeless
+
+- story: depressed path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depressed
+  - action: utter_dont_be_depressed
+  - intent: deny
+  - action: utter_dont_be_depressed2
+  - intent: affirm
+  - action: utter_agreed_for_therapy
